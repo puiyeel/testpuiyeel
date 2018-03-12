@@ -1,0 +1,42 @@
+{
+    "Code": 1,
+    "Message": "Successfully retrieved all mailinglists",
+    "Result": [
+        {
+            "Id": 173457,
+            "Name": "Apsis Training",
+            "FolderId": null,
+            "Created": "\/Date(1511940503180)\/",
+            "Updated": "\/Date(1511940503180)\/",
+            "FromName": "Fortuna_Wines",
+            "FromEmail": "s.chung@fortunawinesintl.com",
+            "Description": "",
+            "CharacterSet": "UTF-8",
+            "Hidden": false
+        },
+        {
+            "Id": 177119,
+            "Name": "Apsis Testing _ 1",
+            "FolderId": null,
+            "Created": "\/Date(1517816306930)\/",
+            "Updated": "\/Date(1517816306930)\/",
+            "FromName": "Fortuna_Wines",
+            "FromEmail": "s.chung@fortunawinesintl.com",
+            "Description": "",
+            "CharacterSet": "UTF-8",
+            "Hidden": false
+        },
+        {
+            "Id": 178567,
+            "Name": "Website",
+            "FolderId": null,
+            "Created": "\/Date(1519891753627)\/",
+            "Updated": "\/Date(1519891753627)\/",
+            "FromName": "Fortuna_Wines",
+            "FromEmail": "info@fortunawinesintl.com",
+            "Description": null,
+            "CharacterSet": "UTF-8",
+            "Hidden": false
+        }
+    ]
+}
